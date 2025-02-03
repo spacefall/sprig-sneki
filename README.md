@@ -1,5 +1,6 @@
 # sprig-sneki 
 A snake like game with different foodstuffs that have different effects  
+*[Now on sprig.hackclub.com](https://sprig.hackclub.com/gallery/sneki)*
 
 ![Preview photo](https://github.com/spacefall/sprig-sneki/blob/main/preview.png?raw=true)
 
